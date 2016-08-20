@@ -1,0 +1,15 @@
+/*register css */
+
+.form-group {
+  width: 50%;
+}
+.table-bordered {
+  background-color: rgb(219, 219, 219);
+  margin-top: 30px;
+}
+.form-signin {
+  width: 400px;
+}
+.registrofondo{
+  background-image: url(http://eskipaper.com/images/blurry-city-light-wallpaper-1.jpg);
+}
