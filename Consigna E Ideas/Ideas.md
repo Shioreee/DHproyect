@@ -12,6 +12,7 @@ IDEAS
 
 2) E-commerce de canjes: Una web en la cual yo puedo publicar mis canjes e intercambiarlos con los canjes de otros usuarios. Para realizar esto el usuario pone un precio a su canje y lo publica en la web. Este precio automáticamente se convierte en crédito, que, si el usuario logra canjear con otra persona, se efectiviza para poder realizar otra compra dentro de la web. 
 (shiori) no entendi, a que se refiere con canje?
+(manu) Canje es cuando te dan algo como parte de pago. Ejemplo: yo vendo sillas y en una transacción que hago parte del pago se la doy con sillas. La persona se queda con tantas sillas como parte de pago, eso es un canje. 
 
 3) Pagina porno.
 (shiori) esta no falla (?)
